@@ -1,11 +1,12 @@
 # CRUD-Cadastro
-CRUD simples com cadastro de pessoa em PHP e Mysql
+CRUD simples para cadastro de pessoa em utilizando HTML,JAVA SCRIPT,PHP e Mysql.
 
-Tecnologias
+Linguagens:
 
 - HTML
 - PHP
 - Mysqli
+- Java script 
 
 
 Telas
