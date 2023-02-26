@@ -1,5 +1,5 @@
 # CRUD-Cadastro
-CRUD simples para cadastro de pessoa em utilizando HTML,JAVA SCRIPT,PHP e Mysql.
+CRUD simples para cadastro de pessoa utilizando HTML,JAVA SCRIPT,PHP e Mysql.
 
 Linguagens:
 
